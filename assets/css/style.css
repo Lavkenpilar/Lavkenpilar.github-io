@@ -6,7 +6,7 @@
 }
 header {
     text-align: center; 
-    background-image: url("../img/montana.webp"); 
+    background-image: url("../img/rosas.jpg"); 
     background-color: #cccccc; 
     height: 500px; 
     background-position: center;
@@ -34,14 +34,14 @@ span {
 }
  #sobremi {
     text-align: center; 
-    background-image: url("../img/cielo.jpg "); 
+    background-image: url("../img/amanecer.jpg "); 
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat; 
     background-size: cover;}
 
 body {
-    background-color: black;
+    background-color: blue;
 }
 h2 {
     font-family: 'Playfair Display', serif;
