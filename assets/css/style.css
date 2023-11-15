@@ -39,3 +39,14 @@ span {
     background-position: center;
     background-repeat: no-repeat; 
     background-size: cover;}
+
+body {
+    background-color: black;
+}
+h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+p {
+    font-family: 'Playfair Display', serif;
+}
