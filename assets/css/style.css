@@ -41,7 +41,7 @@ span {
     background-size: cover;}
 
 body {
-    background-color: blue;
+    background-image: url("../img/rosas.jpg"); 
 }
 h2 {
     font-family: 'Playfair Display', serif;
