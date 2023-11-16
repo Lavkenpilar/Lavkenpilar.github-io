@@ -54,3 +54,10 @@ p {
 #Experiencia {
     background-image: url("../img/azul.jpg ");
 }
+
+.boxes {
+    display: flex;
+    font-size: 15px;
+    gap: 30px;
+    text-align: center;
+}
