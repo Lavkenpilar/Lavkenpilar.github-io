@@ -54,6 +54,9 @@ p {
 #Experiencia {
     background-image: url("../img/azul.jpg ");
 }
+#portafolio {
+    background-image: url("../img/azul.jpg ");
+}
 
 .boxes {
     display: flex;
@@ -61,6 +64,6 @@ p {
     gap: 30px;
     text-align: center;
 }
-.letra1 {
-    font-size: 20px;
+.fondo {
+    background-image: url("../img/rosas.jpg"); 
 }
